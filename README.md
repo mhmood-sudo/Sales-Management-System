@@ -3,7 +3,7 @@ Professional Sales &amp; Inventory Management System built with Laravel 12 and R
 
 ## Project Roadmap & Planning
 You can track our detailed user stories and development progress on Trello:
- Trello Board: Sales Management System (ضع_رابط_بورد_تريلو_هنا)
+ [Trello Board: Sales Management System](https://trello.com/b/Du8pD9Ve/sales-management-system-development-roadmap)
 
 ## User Stories Summary
 
