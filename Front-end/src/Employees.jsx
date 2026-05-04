@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import api from "./api/axios";
+console.log("SCRUM-38 update");
+
 
 const Employees = () => {
   const [employees, setEmployees] = useState([]);
