@@ -3,8 +3,6 @@ import api from "./api/axios";
 
 
 const Employees = () => {
-  console.log("SCRUM-38 update");
-
   const [employees, setEmployees] = useState([]);
   const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
